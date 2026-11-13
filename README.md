@@ -1,4 +1,4 @@
-# FreshFold — One Brand, Two Website Strategies
+# FreshFold: One Brand, Two Website Strategies
 
 Episode 02 of the **“One Brand. Two Websites.”** portfolio series.
 
@@ -6,7 +6,7 @@ FreshFold is a fictional laundry and dry-cleaning brand serving urban Nigeria. T
 
 ## Website strategies
 
-### FreshFold Living — `/template-a`
+### FreshFold Living: `/template-a`
 
 A premium, editorial lifestyle experience designed to sell the emotional benefit of outsourcing laundry.
 
@@ -21,7 +21,7 @@ Key features:
 - Demo customer stories and FAQ
 - Calm sage, cream, forest-green, and terracotta design system
 
-### FreshFold Express — `/template-b`
+### FreshFold Express: `/template-b`
 
 A practical booking experience designed to help customers move quickly from an immediate laundry need to a completed demo booking.
 
